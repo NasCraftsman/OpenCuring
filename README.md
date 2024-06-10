@@ -57,10 +57,10 @@ STEP_A3 | GPIO33 | Output
 STEP_A4 | GPIO32 | Output
 
 
-- The USB LED can be used to indicate that a correct power source has been connected
+- The USB LED is used to indicate that a correct power source has been connected
 - The button is used to start the curing process.
 - The potentiometer is used to select the curing time.
-- The UV pin activated a power mosfet to turn on the UV power LEDs
+- The UV pin activates a power mosfet to turn on the UV power LEDs
 - STEP A1 to A4 are the control lines of the stepper motor
 
 ## Board overview C3T 
