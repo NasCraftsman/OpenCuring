@@ -1,9 +1,9 @@
 # OpenNixie 
 
 
-<img src="Docs/_DSC4069.jpg" width="300px"></a>
-<img src="Docs/_DSC4075.jpg" width="300px"></a>
-<img src="Docs/_DSC4071.jpg" width="300px"></a>
+<img src="Docs/_DSC4069.jpg" width="250px"></a>
+<img src="Docs/_DSC4075.jpg" width="250px"></a>
+<img src="Docs/_DSC4071.jpg" width="250px"></a>
 
 Democratizing manufacturing tools is the only way to bring technological design closer to everyone. OpenCuring is the first open source resin curing machine. The first in a series of completely open manufacturing tools that will allow anyone to have their own maker lab at home.
 
@@ -75,7 +75,7 @@ STEP_A4 | GPIO32 | Output
 
 ## Media
 
-<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG.png" width="50px"></a>
-<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN.png" width="50px"></a>
+<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG.png" width="80px"></a>
+<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN.png" width="80px"></a>
 
 
