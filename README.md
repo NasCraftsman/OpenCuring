@@ -23,7 +23,7 @@ Some of the features that the OpenCuring platform includes are:
 - 1 OLED display 
 - 1 stepper motor
   
-<a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+<a href="https://www.pcbway.com/project/shareproject/Open_Resin_Curing_Machine_8a6f1ecd.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
 
 ## Multi Board Architecture
 
