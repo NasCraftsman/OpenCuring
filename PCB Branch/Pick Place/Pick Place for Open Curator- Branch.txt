@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+F:\NASIB\INGENIERIA\PROYECTOS\4-OPEN CURATOR\BRANCH\Project Outputs for Open Curator- Branch\Pick Place\Pick Place for Open Curator- Branch.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/04/24
+Time:       18:10
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer       Footprint             Center-X(mm) Center-Y(mm) Pad-X(mm) Pad-Y(mm)  Rotation Description                   
+J100       B2B-XH-AM_LF__SN_ BottomLayer B2BXHAMLFSN           77.8180mm    27.9164mm    79.8680mm 26.9164mm  180      Connector                     
+R109       24                TopLayer    RESC1005X40X25LL05T05 82.4900mm    43.4958mm    82.0900mm 43.4958mm  360      "SMD 24 Ohms 62.5 mW 0402 5%" 
+R108       24                TopLayer    RESC1005X40X25LL05T05 82.4900mm    61.0627mm    82.0900mm 61.0627mm  360      "SMD 24 Ohms 62.5 mW 0402 5%" 
+R107       24                TopLayer    RESC1005X40X25LL05T05 82.4900mm    80.6097mm    82.0900mm 80.6097mm  360      "SMD 24 Ohms 62.5 mW 0402 5%" 
+R106       24                TopLayer    RESC1005X40X25LL05T05 82.4900mm    100.7841mm   82.0900mm 100.7841mm 360      "SMD 24 Ohms 62.5 mW 0402 5%" 
+R105       24                TopLayer    RESC1005X40X25LL05T05 82.4900mm    120.0925mm   82.0900mm 120.0925mm 360      "SMD 24 Ohms 62.5 mW 0402 5%" 
+R104       60                TopLayer    RESC1005X40X25LL05T05 82.4900mm    34.4164mm    82.0900mm 34.4164mm  360      "SMD 59 Ohms 62.5 mW 0402 1%" 
+R103       60                TopLayer    RESC1005X40X25LL05T05 82.4900mm    51.9785mm    82.0900mm 51.9785mm  360      "SMD 59 Ohms 62.5 mW 0402 1%" 
+R102       60                TopLayer    RESC1005X40X25LL05T05 82.4900mm    70.4886mm    82.0900mm 70.4886mm  360      "SMD 59 Ohms 62.5 mW 0402 1%" 
+R101       60                TopLayer    RESC1005X40X25LL05T05 82.4900mm    90.9007mm    82.0900mm 90.9007mm  360      "SMD 59 Ohms 62.5 mW 0402 1%" 
+R100       60                TopLayer    RESC1005X40X25LL05T05 82.4900mm    110.2090mm   82.0900mm 110.2090mm 360      "SMD 59 Ohms 62.5 mW 0402 1%" 
+L109       LTST-C190GKT      TopLayer    153283367A212         78.5090mm    43.5928mm    77.5090mm 43.5928mm  360      "SMD UV Clear Non-Diff 405nm" 
+L108       LTST-C190GKT      TopLayer    153283367A212         78.5082mm    61.0325mm    77.5082mm 61.0325mm  360      "SMD UV Clear Non-Diff 405nm" 
+L107       LTST-C190GKT      TopLayer    153283367A212         78.5082mm    80.5652mm    77.5082mm 80.5652mm  360      "SMD UV Clear Non-Diff 405nm" 
+L106       LTST-C190GKT      TopLayer    153283367A212         78.5082mm    100.8493mm   77.5082mm 100.8493mm 360      "SMD UV Clear Non-Diff 405nm" 
+L105       LTST-C190GKT      TopLayer    153283367A212         78.5524mm    119.8486mm   77.5524mm 119.8486mm 360      "SMD UV Clear Non-Diff 405nm" 
+L104       LTST-C190GKT      TopLayer    VLMU3100-GS08         78.7502mm    34.5713mm    77.3252mm 34.5713mm  180      "SMD UV Clear Non-Diff 405nm" 
+L103       LTST-C190GKT      TopLayer    VLMU3100-GS08         78.7502mm    51.9235mm    77.3252mm 51.9235mm  180      "SMD UV Clear Non-Diff 405nm" 
+L102       LTST-C190GKT      TopLayer    VLMU3100-GS08         78.7502mm    70.5172mm    77.3252mm 70.5172mm  180      "SMD UV Clear Non-Diff 405nm" 
+L101       LTST-C190GKT      TopLayer    VLMU3100-GS08         78.7502mm    90.8011mm    77.3252mm 90.8011mm  180      "SMD UV Clear Non-Diff 405nm" 
+L100       LTST-C190GKT      TopLayer    VLMU3100-GS08         78.7502mm    110.2400mm   77.3252mm 110.2400mm 180      "SMD UV Clear Non-Diff 405nm" 
+J101       B2B-XH-AM_LF__SN_ BottomLayer B2BXHAMLFSN           77.8180mm    126.8250mm   79.8680mm 125.8250mm 180      Connector                     

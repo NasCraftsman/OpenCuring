@@ -1,0 +1,35 @@
+UNITS=MM
+#
+#Component attribute names
+#
+@0 .comp_mount_type
+@1 .comp_height
+
+# CMP 0
+CMP 1 79.86799876 26.91634698 0 N J100 B2B-XH-AM_LF__SN_ ;0=2,1=0.0000
+PRP Arrow_Part_Number 'B2B-XH-AM(LF)(SN)'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/b2b-xh-am-lf-sn/jst-manufacturing?region=europe'
+PRP Datasheet_Link 'https://www.jst-mfg.com/product/pdf/eng/eXH.pdf'
+PRP Height '7mm'
+PRP Manufacturer 'JST (JAPAN SOLDERLESS TERMINALS)'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+PRP Part_Number 'B2B-XH-AM(LF)(SN)'
+TOP 0 79.86799876 26.91634698 180 N 11 1 J100-1
+TOP 1 77.36799868 26.91634698 180 N 12 3 J100-2
+TOP 2 75.76799934 28.91634806 180 N 0 0 J100-MH1
+#
+# CMP 1
+CMP 1 79.86799876 125.82494774 0 N J101 B2B-XH-AM_LF__SN_ ;0=2,1=0.0000
+PRP Arrow_Part_Number 'B2B-XH-AM(LF)(SN)'
+PRP Arrow_Price/Stock 'https://www.arrow.com/en/products/b2b-xh-am-lf-sn/jst-manufacturing?region=europe'
+PRP Datasheet_Link 'https://www.jst-mfg.com/product/pdf/eng/eXH.pdf'
+PRP Height '7mm'
+PRP Manufacturer 'JST (JAPAN SOLDERLESS TERMINALS)'
+PRP Mouser_Part_Number ''
+PRP Mouser_Price/Stock ''
+PRP Part_Number 'B2B-XH-AM(LF)(SN)'
+TOP 0 79.86799876 125.82494774 180 N 11 2 J101-1
+TOP 1 77.36799868 125.82494774 180 N 12 2 J101-2
+TOP 2 75.76799934 127.82494882 180 N 0 1 J101-MH1
+#
