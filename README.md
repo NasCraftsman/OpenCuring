@@ -1,6 +1,6 @@
 # OpenNixie 
 
-<img src="Docs/_DSC4069.JPG" width="300px"></a>
+<img src="Docs/_DSC4069.jpg" width="300px"></a>
 <img src="Docs/_DSC4075.JPG" width="300px"></a>
 <img src="Docs/_DSC4071.JPG" width="300px"></a>
 
