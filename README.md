@@ -66,7 +66,7 @@ STEP_A4 | GPIO32 | Output
 
 ## Board overview C3T 
 
-<img src="DocsControlBoardDiagram.png" width="300px"></a>
+<img src="Docs/ControlBoardDiagram.png" width="300px"></a>
 
 ## Flashing firmware to the ESP32 
 
