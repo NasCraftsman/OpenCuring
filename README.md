@@ -1,6 +1,5 @@
 # OpenNixie 
 
-
 <img src="Docs/_DSC4069.jpg" width="250px"></a>
 <img src="Docs/_DSC4075.jpg" width="250px"></a>
 <img src="Docs/_DSC4071.jpg" width="250px"></a>
@@ -35,8 +34,8 @@ OpenCuring integrates two different pcbs:
 
 OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB to adapt the system to the user's needs, playing with the wavelength and power emitted. On the other hand, the PCBs of the branches will be connected in series, allowing the user to expand the number of UV arms by adapting the system to their needs.
 
-<img src="Docs/_DSC1774.jpg" width="250px"></a>
-<img src="Docs/_DSC1775.jpg" width="300px"></a>
+<img src="Docs/_ControlBoard.jpg" width="400px"></a>
+<img src="Docs/_BranchBoard.jpg" width="400px"></a>
 
 ## Warning
 
