@@ -70,8 +70,8 @@ STEP_A4 | GPIO32 | Output
 
 ## Flashing firmware to the ESP32 
 
-**- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode**
-**- You can use the USB-C directly to programm the device**
+- Press and hold BOOT button while press and release EN button, then release BOOT button to enter in BOOT mode
+- You can use the USB-C directly to programm the device
 
 ## Media
 
