@@ -20,7 +20,7 @@ Some of the features that the OpenCuring platform includes are:
 - Up to 3A at 5V 
 - 1 general pourpose button 
 - 1 general pourpose potentiometer 
-- 1 OLED screen 
+- 1 OLED display 
 - 1 stepper motor
   
 <a href="https://www.pcbway.com/project/shareproject/Open_IoT_Nixie_Platform_9b133654.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
