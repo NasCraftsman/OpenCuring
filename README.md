@@ -30,7 +30,7 @@ Some of the features that the OpenCuring platform includes are:
 
 OpenCuring integrates two different pcbs: 
 
-- Control PCB: this system includes all the user interfaces such as teh OLED display, the butons and potentiometers, the USB port and all the integrated control systems. 
+- <strong>Control PCB:</strong> this system includes all the user interfaces such as teh OLED display, the butons and potentiometers, the USB port and all the integrated control systems. 
 - Branch PCB:  this system includes the UV LEDs 
 
 OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB in order to adapt the system to the user needs, playing with the wavelength and the emitted power. On the other hand, the branch PCBs will be conected in series, allowing the user to expand the number of UV arms adapting the system to his needs. 
