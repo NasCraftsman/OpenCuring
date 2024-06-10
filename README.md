@@ -30,17 +30,17 @@ Some of the features that the OpenCuring platform includes are:
 
 OpenCuring integrates two different pcbs: 
 
-- <strong>Control PCB:</strong> this system includes all the user interfaces such as teh OLED display, the butons and potentiometers, the USB port and all the integrated control systems. 
+- <strong>Control PCB:</strong> this system includes all the user interfaces such as the OLED display, the butons and potentiometer, the USB port and all the integrated control systems. 
 - <strong>Branch PCB:</strong>  this system includes the UV LEDs 
 
-OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB in order to adapt the system to the user needs, playing with the wavelength and the emitted power. On the other hand, the branch PCBs will be conected in series, allowing the user to expand the number of UV arms adapting the system to his needs. 
+OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB to adapt the system to the user's needs, playing with the wavelength and power emitted. On the other hand, the PCBs of the branches will be connected in series, allowing the user to expand the number of UV arms by adapting the system to their needs.
 
 <img src="Docs/_DSC1774.jpg" width="250px"></a>
 <img src="Docs/_DSC1775.jpg" width="300px"></a>
 
 ## Warning
 
-OpenCuring uses 405nm UV power LEDs, which can be dangerous for human eyesight. Please, use protection glasses or stay away of the system while the curing process is being executed. 
+OpenCuring uses 405nm UV power LEDs, which can be hazardous to human eyesight. Please wear protective glasses or stay away from the system while the curing process is running.
 
 ## GPIOs
 
@@ -58,11 +58,11 @@ STEP_A3 | GPIO33 | Output
 STEP_A4 | GPIO32 | Output
 
 
-* The USB LED can be used to indicate that a correct power source has been connected 
-* The Button is used to start the curing process 
-* The potentiometer is used to select the curing timming 
-* The UV pin activated a power mosfet to turn on the UV power LEDs 
-* STEP A1 to A4 are the stepper mottor control lines 
+*The USB LED can be used to indicate that a correct power source has been connected
+*The button is used to start the curing process.
+*The potentiometer is used to select the curing time.
+*The UV pin activated a power mosfet to turn on the UV power LEDs
+*STEP A1 to A4 are the control lines of the stepper motor
 
 ## Board overview C3T 
 
