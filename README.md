@@ -62,6 +62,7 @@ STEP_A4 | GPIO32 | Output
 - The potentiometer is used to select the curing time.
 - The UV pin activates a power mosfet to turn on the UV power LEDs
 - STEP A1 to A4 are the control lines of the stepper motor
+- The I2C bus controls the OLED display
 
 ## Board overview C3T 
 
