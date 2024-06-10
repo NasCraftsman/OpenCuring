@@ -15,7 +15,7 @@ There is no excuse to get your hands dirty creating!
 Some of the features that the OpenCuring platform includes are:
 
 - Wifi and BLE connected
-- Modular design: it can be adapted tothe user needs 
+- Modular design: it can be adapted to the user needs 
 - USB Type-C for power and programming
 - Up to 3A at 5V 
 - 1 general pourpose button 
