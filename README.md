@@ -75,7 +75,7 @@ STEP_A4 | GPIO32 | Output
 
 ## Media
 
-<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG" width="50px"></a>
-<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN" width="50px"></a>
+<a href="https://www.instagram.com/nas.craftsman/"><img src="Docs/IG.png" width="50px"></a>
+<a href="www.linkedin.com/in/nasib-fahim-fernandez"><img src="Docs/LIN.png" width="50px"></a>
 
 
