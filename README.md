@@ -1,8 +1,8 @@
 # OpenNixie 
 
-<img src="Docs/_DSC4069.jpg" width="200px"></a>
-<img src="Docs/_DSC4075.jpg" width="200px"></a>
-<img src="Docs/_DSC4071.jpg" width="200px"></a>
+
+<img src="Docs/_DSC4096-Edit.jpg" width="600px"></a>
+
 
 Democratizing manufacturing tools is the only way to bring technological design closer to everyone. OpenCuring is the first open source resin curing machine. The first in a series of completely open manufacturing tools that will allow anyone to have their own maker lab at home.
 
