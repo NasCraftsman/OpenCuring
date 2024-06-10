@@ -1,8 +1,8 @@
 # OpenNixie 
 
 <img src="Docs/_DSC4069.jpg" width="300px"></a>
-<img src="Docs/_DSC4075.JPG" width="300px"></a>
-<img src="Docs/_DSC4071.JPG" width="300px"></a>
+<img src="Docs/_DSC4075.jpg" width="300px"></a>
+<img src="Docs/_DSC4071.jpg" width="300px"></a>
 
 Democratizing manufacturing tools is the only way to bring technological design closer to everyone. OpenCuring is the first open source resin curing machine. The first in a series of completely open manufacturing tools that will allow anyone to have their own maker lab at home.
 
@@ -34,8 +34,8 @@ OpenCuring integrates two different pcbs:
 
 OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB in order to adapt the system to the user needs, playing with the wavelength and the emitted power. On the other hand, the branch PCBs will be conected in series, allowing the user to expand the number of UV arms adapting the system to his needs. 
 
-<img src="Docs/_DSC1774.JPG" width="250px"></a>
-<img src="Docs/_DSC1775.JPG" width="300px"></a>
+<img src="Docs/_DSC1774.jpg" width="250px"></a>
+<img src="Docs/_DSC1775.jpg" width="300px"></a>
 
 ## Warning
 
@@ -65,7 +65,7 @@ STEP_A4 | GPIO32 | Output
 
 ## Board overview C3T 
 
-<img src="DocsControlBoardDiagram.JPG" width="300px"></a>
+<img src="DocsControlBoardDiagram.jpg" width="300px"></a>
 
 ## Flashing firmware to the ESP32 
 
