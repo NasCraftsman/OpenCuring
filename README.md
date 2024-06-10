@@ -34,8 +34,8 @@ OpenCuring integrates two different pcbs:
 
 OpenCuring has been designed as a modular platform. This means that the control PCB can be connected to any UV LED PCB to adapt the system to the user's needs, playing with the wavelength and power emitted. On the other hand, the PCBs of the branches will be connected in series, allowing the user to expand the number of UV arms by adapting the system to their needs.
 
-<img src="Docs/_ControlBoard.JPG" width="400px"></a>
-<img src="Docs/_Branch.JPG" width="400px"></a>
+<img src="Docs/ControlBoard.JPG" width="400px"></a>
+<img src="Docs/Branch.JPG" width="400px"></a>
 
 ## Warning
 
